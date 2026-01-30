@@ -1,5 +1,5 @@
 import "./AppLoader.scss";
-import logo from "../../assets/Logo/Indeed-Mortgage-Broker-Logo.png";
+import logo from "../../assets/Logo/m247-digital-logo.png";
 
 export default function AppLoader({ isVisible }) {
   return (

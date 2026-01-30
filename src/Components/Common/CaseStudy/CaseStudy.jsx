@@ -12,13 +12,13 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
-// import neom from "../../../Assets/CaseStudy/neom-logo.webp"
-// import australian from "../../../Assets/CaseStudy/australia-logo.webp"
-// import employsure from "../../../Assets/CaseStudy/employsure-logo.webp"
+// import neom from "../../../assets/CaseStudy/neom-logo.webp"
+// import australian from "../../../assets/CaseStudy/australia-logo.webp"
+// import employsure from "../../../assets/CaseStudy/employsure-logo.webp"
 
-import thumbnail1 from "../../../Assets/Case-Studies/image-1.jpg"
-import thumbnail2 from "../../../Assets/Case-Studies/image-2.jpg"
-import thumbnail3 from "../../../Assets/Case-Studies/image-3.jpg"
+import thumbnail1 from "../../../assets/Case-Studies/image-1.jpg"
+import thumbnail2 from "../../../assets/Case-Studies/image-2.jpg"
+import thumbnail3 from "../../../assets/Case-Studies/image-3.jpg"
 
 import { useState } from "react";
 import { FaRegCirclePlay } from "react-icons/fa6";

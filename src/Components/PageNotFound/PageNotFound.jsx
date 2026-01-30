@@ -1,4 +1,4 @@
-import notFound from "../../Assets/Common/error-page.svg"
+import notFound from "../../assets/Common/error-page.svg"
 
 import "./PageNotFound.css"
 

@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import "./ThankYou.css";
 
 import Helmet from "../../General/Helmet";
-import banner1 from "../../Assets/Banners/Banner-1.webp";
+import banner1 from "../../assets/Banners/Banner-1.webp";
 
 export default function Thankyou() {    
     // Scroll to top when component mounts
